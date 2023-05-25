@@ -2,7 +2,9 @@
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Bistro Boss](https://github.com/HayatEmraan/bistro-boss)
-
+- 
+- 💬 Ask me about **React, MongoDB**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hayatemraan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hayatemraan" height="30" width="40" /></a>
